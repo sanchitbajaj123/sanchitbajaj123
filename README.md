@@ -1,7 +1,7 @@
 # 💫 About Me:
-Hello, it's me
-Sanchit Bajaj
-And I am a software developer
+Hello, it's me<br>
+Sanchit Bajaj<br>
+And I am a software developer<br>
 Passionate CSE Student | Python Enthusiast | Future Software Developer in the Making 🚀
 
 # 💻 Tech Stack:
