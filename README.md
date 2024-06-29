@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hello, it's me<br>
 Sanchit Bajaj<br>
-And I am a full stack web and software<br>
+And I am a full stack web and software developer.<br>
 Passionate CSE Student and Full Stack Developer | Innovating the Future of Software Development 🚀
 
 # 💻 Tech Stack:
