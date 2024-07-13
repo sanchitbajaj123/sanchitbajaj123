@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Hello, it's me<br>
 Sanchit Bajaj<br>
 And I am a full stack web and software developer.<br>
